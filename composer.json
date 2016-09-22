@@ -1,0 +1,19 @@
+{
+  "name": "adampmoss/magento-category-seo-heading",
+  "type": "magento-module",
+  "description": "Category heading manager",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "adampmoss"
+    },
+    {
+      "name": "Alex Bordin",
+      "email": "alex@hevelop.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
