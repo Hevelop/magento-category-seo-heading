@@ -11,5 +11,5 @@ will display the normal category name as the heading.</p>
 ## Install
 
 ```bash
-$ composer global require adampmoss/magento-category-seo-heading
+$ composer require adampmoss/magento-category-seo-heading
 ```
